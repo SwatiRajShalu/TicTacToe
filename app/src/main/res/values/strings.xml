@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="head">TIC TAC TOE</string>
+    <string name="winner">Winner</string>
+</resources>
